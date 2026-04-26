@@ -15,7 +15,7 @@ config/features=PackedStringArray("4.6", "Forward Plus")
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/clear_output/plugin.cfg", "res://addons/format_document/plugin.cfg")
+enabled=PackedStringArray("res://addons/clear_output/plugin.cfg")
 
 [physics]
 
